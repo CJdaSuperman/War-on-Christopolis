@@ -1,5 +1,5 @@
 # War-on-Christopolis
-This is the second game I ever made. Technically it's more of a tech demo, but this game was made with Unity Engine. 
+This is the second game I ever made. Technically it's more of a tech demo, but this game was made with Unity Engine v2019.4.3f1.
 
 It's a rail shooter where the goal is to survive the waves of enemies within a level.
 
